@@ -1,25 +1,13 @@
 This project uses the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 different classes:
-
 airplane
-
 automobile
-
 bird
-
 cat
-
 deer
-
 dog
-
 frog
-
 horse
-
 ship
-
 truck
-
 Training images: 50,000
-
 Test images: 10,000
